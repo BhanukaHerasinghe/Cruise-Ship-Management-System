@@ -140,3 +140,44 @@ Cabin 11 passenger location  is empty.
 
 Cabin 12 passenger location  is empty. 
 
+<h1> 5) Delete Customer From Cabin </h1>
+
+Please enter your option d
+
+Enter a customer name that you want to delete: bhanuka
+
+Delete complete, Now cabin 1  is empty.
+
+<h1> 6) Find cabin from customer name </h1>
+
+Please enter your option f
+
+Enter the customer name that you want to find : sanjaya
+
+This Passenger is in cabin number 2
+
+<h1> Store program data into file </h1>
+
+Please enter your option : s
+
+Successfully added the data into document
+
+<h1> 7) View Total expense </h1>
+
+Please enter your option : t
+
+Cabin 1  passenger  entered expense is 5000.00
+
+Cabin 2  passenger  entered expense is 10000.00
+
+!!.......Total expenses......!!
+
+Total Expenses is 15000.0
+
+
+<h1> 8) Exit  </h1>
+
+This  will terminate program *
+
+
+
