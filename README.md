@@ -79,4 +79,64 @@ Passenger location: 2 Expenses: 5000.0
 
 <h1> 3) View all cabins in cruise ship cabin </h1>
 
+Please enter your option 
+v
+
+Cabin 1 passenger 1 details
+
+First Name: Bhanuka
+
+Sure Name: herasinghe
+
+Cabin 2 passenger 1 details
+
+First Name: sanjaya
+
+Sure Name: parakrama
+
+Cabin 3 passenger  is empty
+
+Cabin 4 passenger  is empty
+
+Cabin 5 passenger  is empty
+
+Cabin 6 passenger  is empty
+
+Cabin 7 passenger  is empty
+
+Cabin 8 passenger  is empty
+
+Cabin 9 passenger  is empty
+
+Cabin 10 passenger  is empty
+
+Cabin 11 passenger  is empty
+
+Cabin 12 passenger  is empty
+
+<h1> 4) Display Empty Cabins </h1>
+
+Cabin 1 passenger location  is empty.
+
+Cabin 2 passenger location  is empty.
+
+Cabin 3 passenger location  is empty.
+
+Cabin 4 passenger location  is empty.
+
+Cabin 5 passenger location  is empty.
+
+Cabin 6 passenger location  is empty.
+
+Cabin 7 passenger location  is empty.
+
+Cabin 8 passenger location  is empty.
+
+Cabin 9 passenger location  is empty.
+
+Cabin 10 passenger location  is empty.
+
+Cabin 11 passenger location  is empty.
+
+Cabin 12 passenger location  is empty. 
 
